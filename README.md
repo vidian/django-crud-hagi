@@ -1,5 +1,7 @@
 # How to install django for such as dumb beginner
 
+# Open readme.txt instead if this instruction its not clear
+
 Step 1 : Install virtualenv (make sure you already install and setup python in your PC)
 
 - This virutalenv or Virtual Environment allows you install python library locally only in your project directory, you can install it with this command 'python -m venv YOURVENVNAME'.
