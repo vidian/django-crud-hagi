@@ -13,8 +13,8 @@ Step 2 : Install Django and MySql
 
 Step 3 : Make a new project in Django
 
-- After Django is installled, you need to make a new project with this command 'django-admin startproject YOURPROJECTNAME'
-- Then cd to your YOURPROJECTNAME, now you need to make a new app with 'python manage.py startapp YOURAPPNAME .
+- After Django is installled, you need to make a new project with this command 'django-admin startproject YOURPROJECTNAME .'
+- Then cd to your YOURPROJECTNAME, now you need to make a new app with 'python manage.py startapp YOURAPPNAME
   (Startproject is command to produce django project structure, startapp is for creating specific your app name for this/main project)
 
 Step 4 : Open your code editor and go to settings.py
