@@ -1,4 +1,4 @@
-How to install django for such as dumb beginner
+# How to install django for such as dumb beginner
 
 NOTE : <...> any variable inside this bracket you should change it with your any variables name
 
